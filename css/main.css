@@ -4,7 +4,7 @@
 .tong
 {
 	width: 1920px;
-    height: 5300px;
+    height: 100%;
 	background-color: #100028;
 	overflow-x: scroll;
 	scroll-behavior: smooth;
