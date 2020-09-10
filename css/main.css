@@ -6,9 +6,12 @@
 	width: 1920px;
     height: 100%;
 	background-color: #100028;
-	overflow-x: scroll;
+	overflow-y: scroll;
+
+overflow-x: hidden;
 	scroll-behavior: smooth;
-	overflow:hidden
+	
+	
 }
 .mot
 {
