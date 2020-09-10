@@ -6,12 +6,9 @@
 	width: 1920px;
     height: 100%;
 	background-color: #100028;
-	overflow-y: scroll;
-
-overflow-x: hidden;
+	overflow-Y: scroll;
+	overflow-x: hidden;
 	scroll-behavior: smooth;
-	
-	
 }
 .mot
 {
@@ -94,8 +91,8 @@ ul
 ul li
 {
     float: left;
-	font-size: 25px;
-	margin: 30px;
+	font-size: 23px;
+	margin: 35px;
 	
 }
 ul li a
